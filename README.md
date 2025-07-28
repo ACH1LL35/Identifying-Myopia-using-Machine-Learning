@@ -113,7 +113,8 @@ To address **class imbalance**, we applied data augmentation:
 - **Arnab Bishakh Sarker** (ID: 21-44464-1)  
 - **Zobayer Alam** (ID: 21-44487-1)  
 
-*Department of Computer Science*  
+*Department of Computer Science*
+*Faculty of Science and Technology*
 *American International University – Bangladesh (AIUB)*
 
 ---
