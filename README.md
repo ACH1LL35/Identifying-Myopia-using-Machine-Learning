@@ -2,7 +2,7 @@
 
 This project investigates the use of state-of-the-art deep learning models to detect **Myopia** from retinal fundus images. We evaluate the diagnostic performance of five leading convolutional neural networks (CNNs) on the **Retinal Fundus Multi-Disease Image Dataset (RFMiD)** in both frozen and fine-tuned (unfrozen) states.
 
-📄 **[Download Full Report (PDF)](./CVPR-FINAL-REPORT.pdf)**
+📄 **[Download Full Report (PDF)](https://github.com/ACH1LL35/Identifying-Myopia-using-Machine-Learning/blob/main/CVPR%20-%20FINAL%20REPORT.pdf)**
 
 ---
 
